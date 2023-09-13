@@ -6,3 +6,4 @@ split-folders
 scikit-learn
 tqdm
 seaborn
+gdown
