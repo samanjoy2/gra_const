@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+pandas
+matplotlib
+split-folders
+scikit-learn
+tqdm
+seaborn
